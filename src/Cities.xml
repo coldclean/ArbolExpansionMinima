@@ -1,0 +1,52 @@
+<osm-script>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="2.3514993" into="_" n="48.8566102" s="48.8566101" w="2.3514992"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="13.3888600" into="_" n="52.5170366" s="52.5170365" w="13.3888599"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="14.4212536" into="_" n="50.0874655" s="50.0874654" w="14.4212535"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="17.1093064" into="_" n="48.1516917" s="48.1516916" w="17.1093063"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="19.0404708" into="_" n="47.4983816" s="47.4983815" w="19.0404707"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="16.3725043" into="_" n="48.2083538" s="48.2083537" w="16.3725042"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="23.7279844" into="_" n="37.9841494" s="37.9841493" w="23.7279843"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="28.9651647" into="_" n="41.0096335" s="41.0096334" w="28.9651646"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="6.129800" into="_" n="49.6112769" s="49.6112768" w="6.129799"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <query into="_" type="node">
+    <has-kv k="place" modv="" v=""/>
+    <bbox-query e="4.3516971" into="_" n="50.8465574" s="50.8465573" w="4.3516970"/>
+  </query>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+</osm-script>
